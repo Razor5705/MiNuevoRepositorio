@@ -50,7 +50,7 @@
 <body>
     <form>
         <div>
-            <label for="dni">DNI:</label>
+            <label for="dni"> DNI </label>
             <input type="text" id="dni" name="dni" pattern="[0-9]{8}[A-Z]" title="El DNI debe tener 8 dígitos seguidos de una letra mayúscula" required>
         </div>
  
